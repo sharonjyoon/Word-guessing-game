@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 2px #222224;
+}
+
+.header{
+    color: #f0f0f0;
+    background-color: #ee1515;
+    padding: 32px;
+}

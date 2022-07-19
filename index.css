@@ -12,6 +12,22 @@ h1.text{
     border-bottom: 5px solid #222224;
 }
 
+.guessForm {
+    display: flex;
+    font-family: 'Rubik', sans-serif;
+    padding-top: 5%;
+}
+
+.guessButton {
+    font-family: 'Rubik', sans-serif;
+    padding-left: 10px;
+}
+
+.btn {
+    display: flex;
+    margin: 10px;
+    padding-top: 20px;
+}
 
 p{
     text-align: center;

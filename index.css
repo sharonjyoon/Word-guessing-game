@@ -8,3 +8,13 @@ h1{
     background-color: #ee1515;
     padding: 32px;
 }
+
+
+
+
+
+.guessForm {
+    font-family: 'Rubik', sans-serif;
+    margin: 40px auto 0;
+    padding-left: 50px;
+}

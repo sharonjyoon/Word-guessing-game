@@ -9,18 +9,6 @@ h1.text{
 .header{
     background-color: #ee1515;
     padding: 32px;
-<<<<<<< HEAD
-}
-
-
-
-
-
-.guessForm {
-    font-family: 'Rubik', sans-serif;
-    margin: 40px auto 0;
-    padding-left: 50px;
-=======
     border-bottom: 5px solid #222224;
 }
 
@@ -59,5 +47,4 @@ p2.blanks {
     font-family: 'Rubik', sans-serif;
     display: flex;
     justify-content: center;
->>>>>>> d923aa1887e09e06138e3568ccaaaed6e5facb08
 }

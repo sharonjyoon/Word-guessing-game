@@ -1,4 +1,4 @@
-h1.text{
+h1.text {
     color: #f0f0f0;
     font-size: 40px !important;
     font-weight: bold;
@@ -6,30 +6,26 @@ h1.text{
     font-family: 'Rubik', sans-serif;
 }
 
-.header{
+.header {
     background-color: #ee1515;
     padding: 32px;
     border-bottom: 5px solid #222224;
 }
 
-.guessForm {
+.row {
     display: flex;
     font-family: 'Rubik', sans-serif;
-    padding-top: 5%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10%;
+    margin: 10%;
 }
 
-.guessButton {
-    font-family: 'Rubik', sans-serif;
-    padding-left: 10px;
+form {
+    padding-bottom: 40px;
 }
 
-.btn {
-    display: flex;
-    margin: 10px;
-    padding-top: 20px;
-}
-
-p{
+p {
     text-align: center;
     font-weight: bolder;
     display: flex;
@@ -39,7 +35,7 @@ p{
     font-family: 'Rubik', sans-serif;
 }
 
-.poke-image{
+.poke-image {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap-reverse;
